@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-11",
+  "status": "sources_registered_questions_not_imported",
+  "sources": [
+    {
+      "id": "inep-enade",
+      "exam": "ENADE",
+      "scope": "Medicina",
+      "publisher": "Inep",
+      "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enade/provas-e-gabaritos",
+      "kind": "official_index",
+      "import_status": "pending"
+    },
+    {
+      "id": "inep-enade-medicina-2023",
+      "exam": "ENADE",
+      "year": 2023,
+      "scope": "Medicina",
+      "publisher": "Inep",
+      "url": "https://riep.inep.gov.br/items/41394cd9-fcb6-4d49-b5b2-343fde7d8bbf",
+      "kind": "official_repository_record",
+      "available_materials": [
+        "question_booklet",
+        "answer_key",
+        "discursive_answer_standard"
+      ],
+      "import_status": "pending"
+    },
+    {
+      "id": "inep-enamed",
+      "exam": "ENAMED",
+      "scope": "Medicina",
+      "publisher": "Inep",
+      "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enamed/provas-e-gabaritos",
+      "kind": "official_index",
+      "listed_years": [
+        2025,
+        2026
+      ],
+      "import_status": "pending"
+    }
+  ]
+}
