@@ -147,3 +147,7 @@ Abra ou clone este repositório no VS Code e utilize este pedido:
 > Leia o README.md do MedResidência AI. Estamos na fase de especificação, antes da programação. Separe decisões confirmadas de propostas, apresente um plano de implementação em etapas e detalhe o primeiro protótipo com dados fictícios. Preserve o modelo híbrido de convites gratuitos e assinaturas pagas e os professores IA por especialidade coordenados pelo núcleo científico. Não configure cobranças reais, não publique a aplicação e não suponha que credenciais ou bancos de provas já estão disponíveis. Antes de implementar, valide comigo o escopo do MVP e as decisões técnicas pendentes.
 
 A conversa desta sessão não é enviada automaticamente ao VS Code. O README é o ponto de continuidade compartilhado pelo Git.
+
+## Acervo inicial aprovado para inclusão
+
+Enade Medicina e Enamed foram incluídos como fontes do banco de questões em 11/10/2026. Consulte [o plano de importação](docs/acervo-inep.md) e [o catálogo de fontes oficiais](data/sources/inep.json). As fontes estão cadastradas; PDFs e questões ainda não foram importados, pois a aplicação permanece em especificação.
